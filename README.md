@@ -2,7 +2,6 @@
 
 🌟 AI Product Finder 🌟
 
-(Insert a cool banner or remove this line if unnecessary)
 
 An AI-powered tool to help you find the best products based on price, reviews, and your preferences. Enter what you’re looking for, and let the AI do the rest!
 
